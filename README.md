@@ -1,0 +1,3 @@
+project install
+
+> `./project setup`
